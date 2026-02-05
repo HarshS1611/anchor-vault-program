@@ -1,0 +1,17 @@
+[2026-02-05--17-33-59 INFO actix_server::builder] starting 5 workers
+[2026-02-05--17-33-59 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-02-05--17-33-59 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-02-05--17-33-59 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-02-05--17-35-16 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65029.
+[2026-02-05--17-35-47 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65110.
+[2026-02-05--17-35-49 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65119.
+[2026-02-05--17-37-39 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65168.
+[2026-02-05--17-37-41 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65178.
+[2026-02-05--17-38-50 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65213.
+[2026-02-05--17-38-52 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:65223.
+[2026-02-05--17-40-33 INFO actix_server::worker] shutting down idle worker
+[2026-02-05--17-40-33 INFO actix_server::worker] shutting down idle worker
+[2026-02-05--17-40-33 INFO actix_server::accept] accept thread stopped
+[2026-02-05--17-40-33 INFO actix_server::worker] shutting down idle worker
+[2026-02-05--17-40-33 INFO actix_server::worker] shutting down idle worker
+[2026-02-05--17-40-33 INFO actix_server::worker] shutting down idle worker
